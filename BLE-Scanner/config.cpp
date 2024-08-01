@@ -26,7 +26,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "config.h"
-#include "eeprom.h"
+#include "my_eeprom.h"
 
 CONFIG_T _config;
 
