@@ -2,7 +2,7 @@
 
 ESP32-based Bluetooth Low Energy (BLE) scanner to report presence of bluetooth devices into an MQTT service.
 
-This fork is replaces the wifi and eeprom files with my_wifi and my_eeprom files to avoid compile problems on windows because of case insensitivy with the standard libs EEPROM and WiFi.  
+<b>This fork is replaces the wifi and eeprom files with my_wifi and my_eeprom files to avoid compile problems on windows because of case insensitivy with the standard libs EEPROM and WiFi.</b>
 
 
 
